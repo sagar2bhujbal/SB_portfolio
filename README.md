@@ -8,6 +8,11 @@ We all have access to the data, but I aim to turn that data into something impac
 *Idea : One question people always ask to win a team is “Tell us about the winning recipe?”. Is there a secret ingredient? .It’s all started with one simple question. How small decisions players make during a game will have an impact on a game. For example, this idea we will analyze the armory. How small decision like buying a weapon in a particular round has an impact on match or not.  
 *EDA  : Cleaned Data and created different visulisations to illutrate the findings.  
 *skills: Python, Tableau  
+![](https://github.com/sagar2bhujbal/SB_portfolio/blob/main/images/Esports_2.png)
+![](https://github.com/sagar2bhujbal/SB_portfolio/blob/main/images/Esports_3.png)
+![](https://github.com/sagar2bhujbal/SB_portfolio/blob/main/images/Esports_4.png)
+![](https://github.com/sagar2bhujbal/SB_portfolio/blob/main/images/Esports_5.png)
+![](https://github.com/sagar2bhujbal/SB_portfolio/blob/main/images/Esports_6.png)
 
 # Project 2: Breast Cancer Classification
 *AIM : To classify two different Breast Cancer types.  
