@@ -1,5 +1,6 @@
 # SB_Portfolio
->We all have access to the data, but I aim to turn that data into something impactful
+>We all have access to the data, but I aim to turn that data into something impactful  
+
 ![](https://github.com/sagar2bhujbal/SB_portfolio/blob/main/images/Esports_1.png)
 
 # [Project 1:Analysis of Armory in CS:GO ](https://github.com/sagar2bhujbal/ESPORT)
