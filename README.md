@@ -1,2 +1,2 @@
-# SB_portfolio
+# SB_Portfolio
 Data Analysis projects 
