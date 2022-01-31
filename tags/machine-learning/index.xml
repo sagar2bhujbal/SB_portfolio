@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Sagar Bhujbal</title>
+    <link>https://sagar2bhujbal.github.io/SB_portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Sagar Bhujbal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Feb 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://sagar2bhujbal.github.io/SB_portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Breast Cancer Classification and clustering</title>
+      <link>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-3/</link>
+      <pubDate>Sat, 27 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-3/</guid>
+      <description>In this project,I aimed to create a computerised system which can classify two different (Bening and Malignant cases) using various classification methods and later also used clustering techniques. For this project data from following website is used.Link to repository
+When primary analysis is done I found out that Data has total 32 attributes and outof which 30 attributes are real.There were 357 Benign and 212 malignant cases present in the data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PowerBI on Sagar Bhujbal</title>
+    <link>https://sagar2bhujbal.github.io/SB_portfolio/tags/powerbi/</link>
+    <description>Recent content in PowerBI on Sagar Bhujbal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Dec 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://sagar2bhujbal.github.io/SB_portfolio/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Sales Management using PowerBI</title>
+      <link>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-6/</link>
+      <pubDate>Tue, 28 Dec 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-6/</guid>
+      <description>In this Project I have used sample database from Microsoft and extracted data required by problem statement using SQL queries.Extracted data further loaded into PowerBI for Dashboard. This project is consist of 4 steps:
+ Business Request and User Stories Data Cleansing &amp;amp; Transformation(SQL) Data Model creation Dashboard  1. Business Request and User Stories :
+The business request for this data analyst project was an executive sales report for sales managers.</description>
+    </item>
+    
+  </channel>
+</rss>

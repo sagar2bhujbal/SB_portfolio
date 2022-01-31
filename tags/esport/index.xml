@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esport on Sagar Bhujbal</title>
+    <link>https://sagar2bhujbal.github.io/SB_portfolio/tags/esport/</link>
+    <description>Recent content in Esport on Sagar Bhujbal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://sagar2bhujbal.github.io/SB_portfolio/tags/esport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Analysis of Armory in CS:GO</title>
+      <link>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 10 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-2/</guid>
+      <description>*AIM : To find the best features in CS:Go data that can predict win accurately.
+*Idea : One question people always ask to win a team is “Tell us about the winning recipe?”. Is there a secret ingredient? .It’s all started with one simple question. How small decisions players make during a game will have an impact on a game. For example, this idea we will analyze the armory. How small decision like buying a weapon in a particular round has an impact on match or not.</description>
+    </item>
+    
+  </channel>
+</rss>

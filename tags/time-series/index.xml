@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series on Sagar Bhujbal</title>
+    <link>https://sagar2bhujbal.github.io/SB_portfolio/tags/time-series/</link>
+    <description>Recent content in Time Series on Sagar Bhujbal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Mar 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://sagar2bhujbal.github.io/SB_portfolio/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4:Stocks Market Time Series Analysis</title>
+      <link>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-4/</link>
+      <pubDate>Wed, 17 Mar 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-4/</guid>
+      <description>In this Project I have studied four different random stock for analysing trend ,later also tried prediction on those stocks.For this task I have downloaded following four time series from Yahoo Finance for the period 1st Jan 2018 to 31st Dec 2020.
+ Greggs plc (GRG) Allianz Technology Trust Plc (ATT ) NEXT plc ( NXT ) Just Eat Takeaway.com N.V (JET )
+From this downloaded data I have used date and Close column (which indicates closing price of share for corresponding dates) for further processing.</description>
+    </item>
+    
+  </channel>
+</rss>

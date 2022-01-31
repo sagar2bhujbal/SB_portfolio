@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Processing on Sagar Bhujbal</title>
+    <link>https://sagar2bhujbal.github.io/SB_portfolio/tags/image-processing/</link>
+    <description>Recent content in Image Processing on Sagar Bhujbal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jul 2016 10:58:08 -0400</lastBuildDate><atom:link href="https://sagar2bhujbal.github.io/SB_portfolio/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Project Owl Image Processing</title>
+      <link>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-1/</link>
+      <pubDate>Fri, 15 Jul 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-1/</guid>
+      <description>The aim of the project was to develop an image processing algorithm that would allow us to preprocess fundus images of eyes to highlight the various symptoms of diabetic retinopathy. The project concluded work for this semester with the development and implementation of algorithms to remove errors from the fundus images (such as reflection), highlight hard exudates and blood vessel proliferation. They were implemented using MATLAB. For future work, machine learning algorithms must be developed to be able to identify whether a patient suffers from diabetic retinopathy or to predict whether, in future, he will be afflicted by the same.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Sagar Bhujbal</title>
+    <link>https://sagar2bhujbal.github.io/SB_portfolio/tags/statistics/</link>
+    <description>Recent content in Statistics on Sagar Bhujbal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://sagar2bhujbal.github.io/SB_portfolio/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5:Statistical Trend Analysis on Internet users in the UK</title>
+      <link>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-5/</link>
+      <pubDate>Tue, 30 Nov 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://sagar2bhujbal.github.io/SB_portfolio/post/chapter-5/</guid>
+      <description>In this project, Data is taken from the office of the National Statistics website. This data is collected via survey by the Labour Force Survey. Due to COVID 19, there could be some impact on survey data since it was collected just before the pandemic breaks in. As per ONS department survey analysis further in data, there is larger than usual growth for the age group 75+, it could be due to pandemic and issues during survey collection.</description>
+    </item>
+    
+  </channel>
+</rss>
